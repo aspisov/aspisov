@@ -1,1 +1,1 @@
-Machine Learning enthusiast focused on Natural Language Processing (NLP), particularly in efficiency through model optimization techniques such as fine-tuning, quantization, and distillation.
+Machine Learning enthusiast with a dedicated focus on enhancing efficiency in Natural Language Processing.
