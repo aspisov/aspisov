@@ -1,1 +1,1 @@
-Interested in LLM alignment research.
+Interested in large language models and reinforcement learning.
